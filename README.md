@@ -1,6 +1,5 @@
-# 기부니가좋다
-# https://do.funation.io
-# https://www.funation.io
+# 기부니가좋다 (developed by Songminseon)
+# 기부니가좋다 이용하기 : https://do.funation.io
 
 ## V 0.1.0
 ### DATE : 21-02-09
@@ -10,11 +9,9 @@
 ## V 0.2.0
 ### DATE : 21-02-15
 #### 웹팩 적용
-#### 기존 public -> /dist/myAssets으로 변환
-#### local / test / deploy 분리
 
 ## V 0.3.0
-### DATE : ?
+### DATE : 21-02-??
 #### 가방프로젝트 적용 예정
 #### 비로그인 구현
 

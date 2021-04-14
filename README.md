@@ -1,6 +1,3 @@
-# 기부니가좋다 (developed by Songminseon)
-# 기부니가좋다 이용하기 : https://do.funation.io
-
 # V 0.1.0
 ## DATE : 21-02-09
 기부니가좋다 2차 베타서비스 오픈
@@ -33,3 +30,7 @@ webpack dev <-> webpack express 분리
 ## DATE : 21-03-15
 toss결제모듈
 가방배너 변경
+
+# V 0.3.4
+## DATE : 21-04-03
+동구밭 Blueroad 캠페인
